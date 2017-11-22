@@ -1,6 +1,6 @@
 ## Welcome to the UK Community Radio Society (UK-CRS)
 
-This is a temporary introduction slot to fill in later.
+A place to share resources used by Community Radio within the UK (both OFCOM licensed and online-only radio stations)
 
 ### Aims of the UK-CRS
 
