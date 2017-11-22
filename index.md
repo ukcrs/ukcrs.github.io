@@ -4,6 +4,12 @@ A place to share resources used by Community Radio within the UK (both OFCOM lic
 
 ### Aims of the UK-CRS
 
-1) Item 1
-2) Item 2
-3) Item 3
+1. Item 1
+2. Item 2
+3. Item 3
+
+### Resources you can find here...
+
+1. Item 1
+2. Item 2
+3. Item 3
