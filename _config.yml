@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: UK Community Radio Society
+description: A place to share resources used by Community Radio within the UK (both OFCOM licensed and online-only radio stations)
+show_downloads: false
+# google_analytics: [Your Google Analytics tracking ID]
